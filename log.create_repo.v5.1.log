@@ -59,3 +59,36 @@
 2025-11-11 20:17:20 - [5/8] Remote origin...
 2025-11-11 20:17:20 - ✓ Remote configurée
 2025-11-11 20:17:20 - [6/8] Commit initial et push vers main...
+2025-11-11 20:17:20 - → Fichiers ajoutés au staging
+2025-11-11 20:17:20 - → Commit initial créé
+2025-11-11 20:17:21 - ✗ ERREUR git push main
+2025-11-11 20:19:33 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:33 - VÉRIFICATION PRÉREQUIS
+2025-11-11 20:19:33 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:33 - [1/3] Git...
+2025-11-11 20:19:33 - ✓ Git : git version 2.51.0
+2025-11-11 20:19:33 - [2/3] GitHub CLI...
+2025-11-11 20:19:33 - ✓ gh : gh version 2.46.0 (2025-01-13 Debian 2.46.0-3)
+2025-11-11 20:19:33 - [3/3] Authentification GitHub...
+2025-11-11 20:19:34 - ✓ Authentification active
+2025-11-11 20:19:34 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:34 - ✓ TOUS PRÉREQUIS OK
+2025-11-11 20:19:34 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:34 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:34 - CRÉATION DÉPÔT GIT COMPLET
+2025-11-11 20:19:34 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:34 - [1/8] Répertoire local: /mnt/data2_78g/Security/scripts/Projects_security/cmd.airmon-to-dos
+2025-11-11 20:19:34 - → Répertoire existe, conservation fichiers
+2025-11-11 20:19:34 - ✓ Accès répertoire OK
+2025-11-11 20:19:34 - [2/8] Vérification Git...
+2025-11-11 20:19:34 - → Dépôt Git existant détecté, conservation historique
+2025-11-11 20:19:34 - ⚠ Remote origin existe: https://github.com/bdelnoz/cmd.airmon-to-dos.git
+2025-11-11 20:19:34 - → Suppression ancienne remote
+2025-11-11 20:19:34 - [3/8] Fichiers de base...
+2025-11-11 20:19:34 - → README.md existe, SKIP création
+2025-11-11 20:19:34 - → Pas de .gitignore demandé
+2025-11-11 20:19:34 - [4/8] Dépôt distant GitHub...
+2025-11-11 20:19:36 - ✓ Dépôt distant créé
+2025-11-11 20:19:36 - [5/8] Remote origin...
+2025-11-11 20:19:36 - ✓ Remote configurée
+2025-11-11 20:19:36 - [6/8] Commit initial et push vers main...
