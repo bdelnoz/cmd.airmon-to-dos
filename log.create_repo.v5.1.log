@@ -92,3 +92,37 @@
 2025-11-11 20:19:36 - [5/8] Remote origin...
 2025-11-11 20:19:36 - ✓ Remote configurée
 2025-11-11 20:19:36 - [6/8] Commit initial et push vers main...
+2025-11-11 20:19:36 - → Fichiers ajoutés au staging
+2025-11-11 20:19:36 - → Commit initial créé
+2025-11-11 20:19:37 - → Push vers main réussi
+2025-11-11 20:19:37 - ✓ Branche main avec tous les fichiers sur GitHub
+2025-11-11 20:19:37 - [7/8] Création branche working...
+2025-11-11 20:19:37 - → Branche working créée
+2025-11-11 20:19:37 - → Checkout vers working réussi
+2025-11-11 20:19:38 - → Push vers working réussi
+2025-11-11 20:19:38 - ✓ Branche working avec tous les fichiers sur GitHub
+2025-11-11 20:19:38 - [8/8] Vérification finale...
+2025-11-11 20:19:38 - → Branche actuelle: working
+2025-11-11 20:19:38 - ✓ Configuration terminée
+2025-11-11 20:19:38 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:38 - ✓ DÉPÔT CRÉÉ AVEC SUCCÈS
+2025-11-11 20:19:38 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:38 - 
+2025-11-11 20:19:38 - INFOS:
+2025-11-11 20:19:38 -   • Nom       : cmd.airmon-to-dos
+2025-11-11 20:19:38 -   • Owner     : bdelnoz
+2025-11-11 20:19:38 -   • Visibilité: public
+2025-11-11 20:19:38 -   • Local     : /mnt/data2_78g/Security/scripts/Projects_security/cmd.airmon-to-dos
+2025-11-11 20:19:38 -   • Distant   : https://github.com/bdelnoz/cmd.airmon-to-dos
+2025-11-11 20:19:38 -   • Branches  : main (avec fichiers), working (avec fichiers, ACTIVE)
+2025-11-11 20:19:38 -   • Commits   : Initial commit fait automatiquement
+2025-11-11 20:19:38 -   • Push      : main et working synchronisés sur GitHub
+2025-11-11 20:19:38 - 
+2025-11-11 20:19:38 - ✓ Les deux branches (main et working) contiennent tous les fichiers locaux
+2025-11-11 20:19:38 - ✓ Tu es actuellement sur la branche 'working'
+2025-11-11 20:19:38 - 
+2025-11-11 20:19:38 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:38 - 
+2025-11-11 20:19:38 - ═══════════════════════════════════════════════════════════════════════════
+2025-11-11 20:19:38 - Script terminé: 2025-11-11 20:19:38
+2025-11-11 20:19:38 - ═══════════════════════════════════════════════════════════════════════════
