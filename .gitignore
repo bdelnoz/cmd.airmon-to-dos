@@ -1,0 +1,11 @@
+# .gitignore created automatically by cmd.airmon-dos.fr.sh
+# Section added automatically by cmd.airmon-dos.fr.sh
+/logs
+# Section added automatically by cmd.airmon-dos.fr.sh
+/outputs
+# Section added automatically by cmd.airmon-dos.fr.sh
+/results
+# Section added automatically by cmd.airmon-dos.fr.sh
+/infos
+/old
+exclusions_ME.txt

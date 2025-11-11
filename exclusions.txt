@@ -1,0 +1,4 @@
+# exclusions.txt - Complete list of MAC addresses to exclude from DOS attacks
+# Automatically generated on November 11, 2025 at 02:28 CET
+# Source: Comprehensive analysis of WiFi scans (28 unique MACs)
+# Reason: Avoid disruptions to legitimate devices on the network
