@@ -1,4 +1,16 @@
+<!--
+Document : CHANGELOG.md
+Auteur : Bruno DELNOZ
+Email : bruno.delnoz@protonmail.com
+Version : v51.1.0
+Date : 2026-04-20 11:38
+-->
 # Changelog for cmd.airmon-dos.fr.sh
+
+## v51.1.0 (2026-04-20 11:38) : DOCUMENTATION SYNCHRONIZATION
+- Synchronized `README.md`, `USAGE.md`, and `INSTALL.md` with current script options and runtime behavior.
+- Added mandatory Markdown metadata headers to repository documentation files.
+- Clarified operational commands and examples without modifying script logic or script features.
 
 ## v51 (2025-11-11) : ENHANCEMENTS AND ADAPTATIONS
 - Translated all comments, messages, help, and outputs to English for consistency
